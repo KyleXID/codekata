@@ -1,3 +1,5 @@
+# Day11.week3(day1) 두개의 복소수를 string형의 input으로 받아, 두 수를 곱해서 반환하는 함수입니다. 반환하는 값도 string형이여야합니다.
+
 def complexNumberMultiply(a, b):
   plus = a.index("+")
   plus2 = b.index("+")
