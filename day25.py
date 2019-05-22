@@ -1,4 +1,4 @@
-# Day24.Week6(day2) 2019 카카오 신입 공채 1차 코딩 테스트
+# Day24.Week6(day2) 2019 카카오 신입 공채 1차 코딩 테스트 1번
 
 def solution(record):
   splitrecord = []

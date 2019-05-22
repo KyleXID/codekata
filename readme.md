@@ -25,4 +25,5 @@
 - Day22(Week5.day4) 재귀(Recursion) 함수 실행 내부에서 자가함수를 다시 호출하여 str의 형태를 거꾸로 배치한 값을 반환하는 값입니다.
 - Day23(Week5.day5) Linked List https://stackoverflow.com/c/wecode/questions/186
 - Day24(Week6.day1) Reverse Linked List 링크드 리스트의 순서를 뒤집어서 반환하는 함수입니다.
-- Day25(Week6.day2) 2019 카카오 신입 공채 1차 코딩 테스트
+- Day25(Week6.day2) 2019 카카오 신입 공채 1차 코딩 테스트 1번
+- Day26(Week6.day3) 2019 카카오 신입 공채 1차 코딩 테스트 2번
