@@ -1,4 +1,4 @@
-# Day24.Week6(day3) 2019 카카오 신입 공채 1차 코딩 테스트 2번
+# Day26.Week6(day3) 2019 카카오 신입 공채 1차 코딩 테스트 2번
 
 def solution(N, stages):
   newstages = []
