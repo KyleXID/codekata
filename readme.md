@@ -28,3 +28,5 @@
 - Day25(Week6.day2) 2019 카카오 신입 공채 1차 코딩 테스트 1번
 - Day26(Week6.day3) 2019 카카오 신입 공채 1차 코딩 테스트 2번
 - Day29(Week7.day1) 2019 카카오 신입 공채 1차 코딩 테스트 비밀지도
+- 190610 K번째 수 https://programmers.co.kr/learn/courses/30/lessons/42748
+- 190611 체육복 https://programmers.co.kr/learn/courses/30/lessons/42862
