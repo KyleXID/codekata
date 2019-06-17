@@ -23,12 +23,13 @@
 - Day20(Week5.day2) Selection Sort(선택정렬) 정렬되지 않은 데이터 중 가장 작은 데이터를 선택해서 맨 앞에서부터 순서대로 정렬해 나가는 함수입니다.
 - Day21(Week5.day3) 버블정렬(Bubble Sort) 인접한 데이터를 교환해서 정렬하는 알고리즘입니다.
 - Day22(Week5.day4) 재귀(Recursion) 함수 실행 내부에서 자가함수를 다시 호출하여 str의 형태를 거꾸로 배치한 값을 반환하는 값입니다.
-- Day23(Week5.day5) Linked List <https://stackoverflow.com/c/wecode/questions/186>
+- Day23(Week5.day5) Linked List [스택오버플로우](https://stackoverflow.com/c/wecode/questions/186)
 - Day24(Week6.day1) Reverse Linked List 링크드 리스트의 순서를 뒤집어서 반환하는 함수입니다.
 - Day25(Week6.day2) 2019 카카오 신입 공채 1차 코딩 테스트 1번
 - Day26(Week6.day3) 2019 카카오 신입 공채 1차 코딩 테스트 2번
 - Day29(Week7.day1) 2019 카카오 신입 공채 1차 코딩 테스트 비밀지도
-- 190610 K번째 수 <https://programmers.co.kr/learn/courses/30/lessons/42748>
-- 190611 체육복 <https://programmers.co.kr/learn/courses/30/lessons/42862>
-- 190612 <https://leetcode.com/problems/add-two-numbers/solution/> 1~2. Add Two Numbers
-- 190613 3. Longest Substring Without Repeating Characters <https://leetcode.com/problems/longest-substring-without-repeating-characters/>
+- 190610 [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- 190611 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- 190612 [1~2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solution/) 
+- 190613 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- 190617 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
