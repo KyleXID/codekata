@@ -33,3 +33,5 @@
 - 190612 [1~2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solution/) 
 - 190613 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - 190617 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- 190618 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- 190619 [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
