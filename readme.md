@@ -37,3 +37,4 @@
 - 190619 [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 - 200702 [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - 200703 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- 200706 [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
