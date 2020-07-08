@@ -38,3 +38,5 @@
 - 200702 [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - 200703 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - 200706 [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- 200707 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- 200708 [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
